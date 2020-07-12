@@ -1,0 +1,278 @@
+Abbeville, FRXX0111
+Agen, FRXX0135
+Aix-en-Provence, FRXX0001
+Ajaccio, FRXX0129
+Albi, FRXX0002
+Alençon, FRXX0207
+Amiens, FRXX0269
+Ancette, FRXX0216
+Angers, FRXX0137
+Annemasse, FRXX0003
+Antibes, FRXX0004
+Antony, FRXX0294
+Argenteuil, FRXX0282
+Arnage, FRXX0005
+Asnieres-sur-Seine, FRXX0288
+Aubagne, FRXX0006
+Aubervilliers, FRXX0007
+Auch, FRXX0138
+Aulnay-sous-Bois, FRXX0285
+Aurillac, FRXX0139
+Auxerre, FRXX0008
+Avignon, FRXX0270
+Aytre, FRXX0009
+Bareges, FRXX0217
+Bar-le-Duc, FRXX0203
+Bastia, FRXX0130
+Bayeux, FRXX0010
+Beauvais, FRXX0011
+Belfort, FRXX0012
+Bergerac, FRXX0140
+Besançon, FRXX0141
+Béziers, FRXX0013
+Biarritz, FRXX0125
+Biscay, FRXX0132
+Blois, FRXX0014
+Bobigny, FRXX0015
+Bois des Seignus, FRXX0218
+Bonneval-sur-Arc, FRXX0219
+Bordeaux, FRXX0016
+Boulogne, FRXX0271
+Boulogne-Billancourt, FRXX0281
+Bourg-en-Bresse, FRXX0017
+Bourges, FRXX0018
+Bourg-St-Maurice, FRXX0142
+Brest, FRXX0019
+Briançon, FRXX0143
+Brides-les-Bains, FRXX0213
+Brive, FRXX0144
+Caen, FRXX0020
+Cagnes-sur-Mer, FRXX0021
+Cahors, FRXX0022
+Calais, FRXX0272
+Cambrai, FRXX0145
+Cannes, FRXX0023
+Cap Cepet, FRXX0127
+Carbon-Blanc, FRXX0024
+Carcassonne, FRXX0025
+Carpentras, FRXX0146
+Carquefou, FRXX0026
+Castelnau-de-Médoc, FRXX0027
+Cauterets, FRXX0220
+Cergy, FRXX0297
+Chambery, FRXX0147
+Chamonix, FRXX0212
+Champigny-sur-Marne, FRXX0290
+Chantilly, FRXX0028
+Charleville-Mézières, FRXX0205
+Chartres, FRXX0029
+Chassiron, FRXX0118
+Châteauroux, FRXX0030
+Châtelaillon, FRXX0031
+Chedde, FRXX0221
+Cherbourg, FRXX0032
+Cholet, FRXX0033
+Clermont-Ferrand, FRXX0120
+Clot Meyran, FRXX0222
+Cognac, FRXX0148
+Colmar, FRXX0034
+Colombes, FRXX0287
+Coulans, FRXX0035
+Courbevoie, FRXX0292
+Creteil, FRXX0284
+Creuse, FRXX0200
+Crey-Rond, FRXX0223
+Dax, FRXX0149
+Deauville, FRXX0150
+Dieppe, FRXX0224
+Digne-les-Bains, FRXX0211
+Dijon, FRXX0036
+Drancy, FRXX0293
+Dreux, FRXX0037
+Dunkerque, FRXX0151
+Embrun, FRXX0124
+Epinal, FRXX0152
+Evian, FRXX0299
+Evreux, FRXX0038
+Fabrègues, FRXX0039
+Favray, FRXX0225
+Foix, FRXX0204
+Foret de Risoul, FRXX0226
+Fréjus, FRXX0040
+Gourdon, FRXX0121
+Grasse, FRXX0041
+Grenoble, FRXX0153
+Haguenau, FRXX0042
+Hauteluce, FRXX0228
+Hyères, FRXX0154
+Ile de Batz, FRXX0155
+Ile Rousse, FRXX0156
+Isola, FRXX0229
+Istres, FRXX0157
+La Bazoge, FRXX0043
+La Calvaire, FRXX0235
+La Chiappa, FRXX0178
+La Clusaz, FRXX0231
+La Coudre, FRXX0179
+La Grave, FRXX0214
+La Gurraz, FRXX0232
+La Hague, FRXX0112
+La Plagne, FRXX0233
+La Rochelle, FRXX0044
+La Roche-sur-Yon, FRXX0158
+La Seyne-sur-Mer, FRXX0273
+L'Alpe-d'Huez, FRXX0230
+Landerneau, FRXX0045
+Landes, FRXX0181
+Laon, FRXX0206
+Laval, FRXX0159
+Lavalette, FRXX0234
+Le Cugnon, FRXX0236
+Le Fey, FRXX0237
+Le Grand-Quevilly, FRXX0046
+Le Havre, FRXX0047
+Le Manchet, FRXX0238
+Le Mans, FRXX0048
+Le Peyrou, FRXX0239
+Le Puy-en-Velay, FRXX0209
+Le Talut, FRXX0116
+Le Touquet, FRXX0160
+Le Truc, FRXX0240
+Lens, FRXX0049
+les Chozalets, FRXX0268
+Les Freaux, FRXX0241
+Les Geymonds, FRXX0242
+Les Grands Vans, FRXX0243
+Les Ougiers, FRXX0244
+Les Sables-d'Olonne, FRXX0050
+Levallois-Perret, FRXX0298
+Libourne, FRXX0051
+Lille, FRXX0052
+Limoges, FRXX0119
+Lisieux, FRXX0053
+Lons-le-Saunier, FRXX0161
+Lorient, FRXX0054
+Lyon, FRXX0055
+Mâcon, FRXX0056
+Malicorne, FRXX0057
+Marignane, FRXX0058
+Marne-la-Vallee, FRXX0279
+Marseille, FRXX0059
+Meaux, FRXX0060
+Médoc, FRXX0131
+Megeve, FRXX0245
+Melun, FRXX0061
+Mende, FRXX0162
+Menton, FRXX0062
+Meribel, FRXX0246
+Mérignac, FRXX0063
+Metz, FRXX0064
+Millau, FRXX0122
+Mondeville, FRXX0065
+Montagne de Cherferie, FRXX0247
+Montagne de Mazeliere, FRXX0248
+Montargis, FRXX0066
+Montauban, FRXX0067
+Mont-de-Marsan, FRXX0163
+Montélimar, FRXX0123
+Montgesin, FRXX0249
+Montpellier, FRXX0068
+Montreuil-sous-Bois, FRXX0283
+Mont-Saint-Aignan, FRXX0069
+Montvalezan-sur-Seez, FRXX0250
+Morlaix, FRXX0070
+Morzine, FRXX0251
+Mulhouse, FRXX0071
+Nancy/Essey, FRXX0115
+Nanterre, FRXX0202
+Nantes, FRXX0072
+Neuilly-sur-Seine, FRXX0295
+Nevers, FRXX0164
+Nice, FRXX0073
+Nîmes, FRXX0165
+Niort, FRXX0166
+Orange, FRXX0167
+Orcieres, FRXX0252
+Orléans, FRXX0074
+Orvault, FRXX0075
+Ouessant, FRXX0113
+Paris, FRXX0076
+Paris/Aéroport de Roissy, FRXX0077
+Pau, FRXX0168
+Périgueux, FRXX0169
+Perpignan, FRXX0128
+Pessac, FRXX0078
+Pied Aigu, FRXX0253
+Pierre Besse, FRXX0254
+Pointe de Corbier, FRXX0256
+Pointe de l' Eygliere, FRXX0257
+Pointe Turra, FRXX0255
+Poitiers, FRXX0170
+Porquerolles, FRXX0180
+Privas, FRXX0208
+Quimper, FRXX0079
+Reims, FRXX0080
+Rennes, FRXX0114
+Rezé, FRXX0081
+Roanne, FRXX0082
+Roche, FRXX0258
+Rochefort, FRXX0083
+Rocher de l' Homme, FRXX0259
+Rodez, FRXX0171
+Roubaix, FRXX0084
+Rouen, FRXX0085
+Roussis, FRXX0260
+Rueil-Malmaison, FRXX0289
+Saint-Brieuc, FRXX0086
+Saint-Denis, FRXX0087
+Saint-Dié, FRXX0088
+Saint-Etienne, FRXX0274
+Saint-Etienne-du-Rouvray, FRXX0089
+Saint-Lô, FRXX0090
+Saint-Malo, FRXX0275
+Saint-Maur-des-Fosses, FRXX0291
+Saint-Nazaire, FRXX0091
+Saint-Quentin, FRXX0276
+Saint-Quentin-en-Yvelines, FRXX0280
+Saint-Raphaël, FRXX0092
+Saint-Tropez, FRXX0215
+Salon-de-Provence, FRXX0093
+Samoens, FRXX0261
+Sarcelles, FRXX0296
+Seez, FRXX0262
+Serre Chevalier, FRXX0227
+Sète, FRXX0094
+Solenzara, FRXX0172
+St-Dizier, FRXX0173
+St-Girons, FRXX0126
+Strasbourg, FRXX0095
+Talence, FRXX0096
+Tarbes, FRXX0097
+Tete de Viraysse, FRXX0263
+Topla, FRXX0134
+Torrent des Encombres, FRXX0264
+Tougnete, FRXX0265
+Toul / Rosières, FRXX0174
+Toulon, FRXX0098
+Toulouse, FRXX0099
+Tourcoing, FRXX0277
+Tours, FRXX0100
+Trappes, FRXX0175
+Troyes, FRXX0101
+Valence, FRXX0102
+Valognes, FRXX0103
+Vancroit, FRXX0266
+Vannes, FRXX0176
+Vars, FRXX0267
+Vendargues, FRXX0104
+Vénissieux, FRXX0105
+Versailles, FRXX0106
+Vesoul, FRXX0210
+Vichy, FRXX0177
+Vienne, FRXX0107
+Vierzon, FRXX0108
+Villefranche-sur-Sâone, FRXX0109
+Villeneuve-d'Ascq, FRXX0278
+Villeurbanne, FRXX0110
+Vitry-sur-Seine, FRXX0286
+Vittefleur, FRXX0300

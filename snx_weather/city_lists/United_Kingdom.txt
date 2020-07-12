@@ -1,0 +1,654 @@
+Abbotsbury, UKXX0201
+Aberdare, UKXX1654
+Aberdeen, UKXX0001
+Abergwesyn, UKXX0196
+Aberporth, UKXX0180
+Abersoch, UKXX0193
+Aberystwyth, UKXX0203
+Abingdon, UKXX0002
+Accrington, UKXX1241
+Acharn, UKXX0194
+Aintree, UKXX2092
+Airdrie, UKXX0003
+Aldershot, UKXX0858
+Alfreton, UKXX1349
+Alston, UKXX0199
+Altnaharra, UKXX0198
+Altrincham, UKXX0004
+Amesbury, UKXX0195
+Amlwch, UKXX0197
+Andover, UKXX0200
+Arbroath, UKXX1053
+Argyll, UKXX2089
+Arnold, UKXX1129
+Arran, UKXX2088
+Ashford, UKXX0005
+Ashington, UKXX0589
+Ashton-in-Makerfield, UKXX0632
+Ashton-under-Lyne, UKXX0790
+Aviemore, UKXX0166
+Aylesbury, UKXX0204
+Ayr, UKXX0006
+Ayrshire, UKXX2087
+Bala, UKXX0205
+Ballymena, UKXX1540
+Banbury, UKXX0209
+Banchory, UKXX0007
+Bangor, UKXX0008
+Banstead, UKXX0913
+Bardesy, UKXX0287
+Barmouth, UKXX0289
+Barnet, UKXX0563
+Barnsley, UKXX0009
+Barnstaple, UKXX1463
+Barrow-in-Furness, UKXX1577
+Barry, UKXX0010
+Basildon, UKXX0518
+Basingstoke, UKXX0011
+Bath, UKXX0012
+Batley, UKXX0013
+Bearsden, UKXX0829
+Bebington, UKXX0726
+Bedford, UKXX0014
+Bedworth, UKXX0948
+Beeston, UKXX1329
+Belfast, UKXX0015
+Bellshill, UKXX0016
+Benfleet, UKXX0914
+Bentley, UKXX0826
+Beverley, UKXX1161
+Beverly, UKXX2098
+Bexhill, UKXX0216
+Bexhill-on-Sea, UKXX1719
+Bexley, UKXX0850
+Bicester, UKXX1099
+Billericay, UKXX1146
+Billingham, UKXX1123
+Birkenhead, UKXX0017
+Birmingham, UKXX0018
+Bishop Auckland, UKXX1150
+Bishop's Stortford, UKXX0739
+Bishopbriggs, UKXX1232
+Blackburn, UKXX1036
+Blackpool, UKXX0019
+Bletchley, UKXX1331
+Blyth, UKXX0689
+Bodenham, UKXX0210
+Bognor Regis, UKXX1105
+Bolton, UKXX0020
+Bootle, UKXX1575
+Borehamwood, UKXX0810
+Boston, UKXX1701
+Boulmer, UKXX0172
+Bourne, UKXX0212
+Bournemouth, UKXX0021
+Bracknell, UKXX0022
+Bradford, UKXX0023
+Braintree, UKXX1343
+Bramhall, UKXX0827
+Brawdy, UKXX0229
+Brecon, UKXX0206
+Brent, UKXX0624
+Brentwood, UKXX1344
+Bridgend, UKXX1730
+Bridgwater, UKXX1216
+Bridlington, UKXX0024
+Bridlington Mrsc, UKXX0174
+Brighouse, UKXX1159
+Brighstone, UKXX0323
+Brighton, UKXX0215
+Bristol, UKXX0025
+Brize Norton, UKXX0182
+Broadstairs, UKXX0359
+Bromborough, UKXX0828
+Bromley, UKXX1649
+Bromsgrove, UKXX0026
+Bruton, UKXX0208
+Bude, UKXX0207
+Burgess Hill, UKXX1770
+Burnley, UKXX1137
+Burntwood, UKXX1786
+Burton upon Trent, UKXX0027
+Burton-on-Trent, UKXX0528
+Bury, UKXX0626
+Bury St Edmunds, UKXX0213
+Butter Tubs Pass, UKXX0211
+Buxton, UKXX0214
+Caerphilly, UKXX0738
+Cairnryan, UKXX0217
+Camberley, UKXX0670
+Camborne, UKXX0185
+Cambridge, UKXX0028
+Camden, UKXX1127
+Cannock, UKXX1025
+Canterbury, UKXX0029
+Canvey Island, UKXX0416
+Cape Wrath, UKXX0327
+Cardiff, UKXX0030
+Cardigan Bay, UKXX0326
+Carlisle, UKXX0226
+Carlton, UKXX1026
+Carrickfergus, UKXX0345
+Castle Combe, UKXX1915
+Castleford, UKXX1624
+Central Milton Keynes, UKXX1790
+Chadderton, UKXX0824
+Chale, UKXX0324
+Chapeltown, UKXX1531
+Chatham, UKXX0780
+Chelmsford, UKXX0031
+Cheltenham, UKXX0032
+Cheshunt, UKXX1330
+Chester, UKXX0033
+Chester-le-Street, UKXX0823
+Chesterfield, UKXX0034
+Chichester, UKXX0899
+Chippenham, UKXX1715
+Chipping Sodbury, UKXX0629
+Chivenor, UKXX0227
+Chorley, UKXX0825
+Christchurch, UKXX1138
+Clacton, UKXX0219
+Clacton-on-Sea, UKXX0648
+Cleethorpes, UKXX0373
+Clydebank, UKXX0035
+Coalville, UKXX0681
+Coatbridge, UKXX0036
+Colchester, UKXX0037
+Coleraine, UKXX0224
+Colwyn Bay, UKXX0218
+Congleton, UKXX0849
+Copplestone, UKXX0225
+Corby, UKXX1490
+Cottesmore, UKXX0322
+Coventry, UKXX0038
+Craigencallie, UKXX0221
+Cramlington, UKXX0493
+Crawley, UKXX0816
+Crew Green, UKXX0220
+Crewe, UKXX0228
+Crewkerne, UKXX0223
+Cromer, UKXX0222
+Crosby, UKXX1230
+Croydon, UKXX1425
+Culdrose, UKXX0186
+Cumbernauld, UKXX0820
+Cwmbran, UKXX1590
+Dalkeith, UKXX0039
+Darlington, UKXX0817
+Dartford, UKXX0745
+Darwen, UKXX1037
+Deal, UKXX1445
+Denton, UKXX1788
+Derby, UKXX0040
+Devauden, UKXX0230
+Dewsbury, UKXX0727
+Doncaster, UKXX0041
+Dover, UKXX0042
+Down Royal, UKXX2093
+Dronfield, UKXX0043
+Droylsden, UKXX0932
+Dudley, UKXX0044
+Dumbarton, UKXX0663
+Dumfries, UKXX0360
+Dundee, UKXX0045
+Dunfermline, UKXX0046
+Dunkeswell Arpt, UKXX0231
+Dunstable, UKXX1762
+Durham, UKXX0047
+Dyce, UKXX0048
+Ealing, UKXX1426
+Easington, UKXX0232
+East Grinstead, UKXX0904
+East Kilbride, UKXX0049
+East Midlands, UKXX0050
+Eastbourne, UKXX1139
+Eastleigh, UKXX0051
+Eccles, UKXX0822
+Ecclesfield, UKXX0630
+Edinburgh, UKXX0052
+Egham, UKXX1124
+Ellesmere Port, UKXX1546
+Ellon, UKXX0053
+Enfield, UKXX1561
+Epsom, UKXX1228
+Esher, UKXX0482
+Eskdalemuir, UKXX0169
+Eskmeals, UKXX0233
+Exeter, UKXX0054
+Exmouth, UKXX1354
+Exton, UKXX0234
+Fairlight, UKXX0235
+Falkirk, UKXX0055
+Fareham, UKXX0056
+Farnborough, UKXX0057
+Farnham, UKXX1028
+Farnworth, UKXX1132
+Felixstowe, UKXX0573
+Felling, UKXX0728
+Ferndown, UKXX1338
+Ffestiniog, UKXX0236
+Fleet, UKXX0531
+Fleetwood, UKXX0661
+Folkestone, UKXX0058
+Formby, UKXX0679
+Foveran, UKXX0059
+Freshwater, UKXX0237
+Frimley, UKXX1729
+Frome, UKXX1642
+Galloway, UKXX2086
+Garvagh, UKXX0243
+Gateshead, UKXX0060
+Gillingham, UKXX0625
+Glasgow, UKXX0061
+Glen Orrin, UKXX0240
+Glenanne, UKXX0238
+Glenrothes, UKXX0775
+Glossop, UKXX0714
+Gloucester, UKXX0062
+Godalming, UKXX0239
+Goodwood, UKXX2094
+Gosforth, UKXX1532
+Gosport, UKXX0413
+Grantham, UKXX0729
+Grassington, UKXX0241
+Gravesend, UKXX1430
+Grays, UKXX1205
+Greasby, UKXX0819
+Great Sankey, UKXX0628
+Great Wakering, UKXX0242
+Great Yarmouth, UKXX0063
+Greenock, UKXX1728
+Greenwich, UKXX1428
+Grimsby, UKXX0064
+Guernsey Island, UKXX0065
+Guildford, UKXX1727
+Hackney, UKXX1725
+Halesowen, UKXX1229
+Halifax, UKXX1362
+Hamilton, UKXX0066
+Hammersmith, UKXX1726
+Haringey, UKXX1227
+Harlow, UKXX0244
+Harpenden, UKXX0634
+Harrogate, UKXX1328
+Harrow, UKXX1471
+Hartlepool, UKXX0067
+Hastings, UKXX0929
+Hatfield, UKXX1530
+Havant, UKXX0068
+Havering, UKXX0526
+Hawarden, UKXX1632
+Hay-On-Wye, UKXX0249
+Haydock Park, UKXX2095
+Haywards Heath, UKXX0631
+Heanor, UKXX0456
+Hemel Hempstead, UKXX0527
+Hemsby, UKXX0179
+Hereford, UKXX0245
+Herne Bay, UKXX0651
+Herstmonceux, UKXX0189
+Heswall, UKXX1030
+Heywood, UKXX0500
+High Wycombe, UKXX0474
+Hillingdon, UKXX0814
+Hillsborough, UKXX0190
+Hinckley, UKXX0980
+Hindley, UKXX1732
+Hitchin, UKXX1789
+Hoddesdon, UKXX1154
+Holywell, UKXX0246
+Horsham, UKXX1303
+Horst Green, UKXX0247
+Hounslow, UKXX0069
+Hove, UKXX1738
+Hoylake, UKXX1231
+Hucknall, UKXX1332
+Huddersfield, UKXX0070
+Hunstanton, UKXX0248
+Huyton-with-Roby, UKXX0930
+Hyde, UKXX1608
+Ilford, UKXX1164
+Ilkeston, UKXX1449
+Inverness, UKXX0250
+Inverurie, UKXX0071
+Ipswich, UKXX0072
+Irvine, UKXX0576
+Islington, UKXX1764
+Jarrow, UKXX0690
+Jersey, UKXX0251
+Keighley, UKXX0939
+Kempton Park, UKXX2096
+Kendal, UKXX1177
+Kenilworth, UKXX0742
+Kensington, UKXX1844
+Kent, UKXX1894
+Kettering, UKXX0254
+Kidderminster, UKXX0073
+Kidsgrove, UKXX0532
+Kilmarnock, UKXX0074
+King's Lynn, UKXX0504
+Kingston upon Hull, UKXX0075
+Kingston upon Thames, UKXX0770
+Kingswood, UKXX0076
+Kinloss, UKXX0167
+Kirkby, UKXX0873
+Kirkby-in-Ashfield, UKXX0732
+Kirkcaldy, UKXX1279
+Kirkstone Pass, UKXX0252
+Kirkwall Airport, UKXX0164
+Knighton, UKXX0253
+Lambeth, UKXX0926
+Lancaster, UKXX0581
+Larne, UKXX0077
+Leatherhead, UKXX1275
+Leeds, UKXX0078
+Leeming, UKXX0173
+Leicester, UKXX0079
+Leigh, UKXX1126
+Leighton Buzzard, UKXX0257
+Leighton-Linslade, UKXX1529
+Leith, UKXX0080
+Lerwick, UKXX0081
+Letchworth, UKXX0712
+Leuchars, UKXX0170
+Lewisham, UKXX1427
+Leyland, UKXX0605
+Lichfield, UKXX1423
+Lincoln, UKXX1087
+Lisburn, UKXX0082
+Littlehampton, UKXX0260
+Liverpool, UKXX0083
+Livingston, UKXX0084
+Llandrindod Wells, UKXX0259
+Llandudno, UKXX0256
+Llanelli, UKXX1305
+Llangadog, UKXX0263
+Llangoed, UKXX0264
+Llanidloes, UKXX0255
+Llanwrtyd Wells, UKXX0262
+Locks Heath, UKXX1630
+London, UKXX0085
+Londonderry, UKXX0086
+Long Eaton, UKXX0087
+Loughborough, UKXX0680
+Loughton, UKXX1269
+Lowestoft, UKXX0399
+Lulworth, UKXX0261
+Lurgan, UKXX1432
+Luton, UKXX0088
+Lyneham, UKXX0183
+Lynmouth, UKXX0258
+Mablethorpe, UKXX0272
+MacClesfield, UKXX0089
+Maghull, UKXX0831
+Maidenhead, UKXX0090
+Maidstone, UKXX0091
+Malvern, UKXX0269
+Manchester, UKXX0092
+Mangotsfield, UKXX1031
+Mansfield, UKXX0498
+Manston, UKXX0184
+Margate, UKXX1051
+Marham, UKXX0271
+Melton Mowbray, UKXX1079
+Merthyr, UKXX0273
+Merthyr Tydfil, UKXX1046
+Merton, UKXX1128
+Middlesbrough, UKXX0093
+Middleton, UKXX1431
+Mildenhall, UKXX0094
+Milnthorpe, UKXX0267
+Milton Keynes, UKXX0268
+Minehead, UKXX0266
+Monmouth, UKXX0270
+Morecambe, UKXX0390
+Morley, UKXX1527
+Motherwell, UKXX0095
+Musselburgh, UKXX0096
+Neath, UKXX1707
+Nelson, UKXX1737
+New Quay, UKXX0278
+Newark, UKXX0887
+Newark On Trent, UKXX0276
+Newburn, UKXX0529
+Newbury, UKXX0097
+Newcastle, UKXX0098
+Newcastle upon Tyne, UKXX1695
+Newcastle-under-Lyme, UKXX0818
+Newham, UKXX1327
+Newhaven, UKXX0274
+Newport, UKXX0099
+Newport (Dyfed), UKXX1794
+Newport (Isle of Wight), UKXX1792
+Newport (Shropshire), UKXX1797
+Newry, UKXX0830
+Newton Abbot, UKXX1516
+Newton Aycliffe, UKXX0556
+Newtownabbey, UKXX0100
+Newtownards, UKXX0341
+North Berwick, UKXX0101
+North Downs, UKXX0275
+North Shields, UKXX1586
+Northampton, UKXX0102
+Northwich, UKXX1551
+Norwich, UKXX0103
+Nottingham, UKXX0104
+Nuneaton, UKXX0552
+Okehampton, UKXX0280
+Oldham, UKXX0105
+Orford, UKXX0279
+Ormskirk, UKXX0281
+Oxford, UKXX0106
+Paignton, UKXX0616
+Paisley, UKXX0107
+Penarth, UKXX0108
+Penicuik, UKXX0109
+Penwortham, UKXX1032
+Penzance, UKXX0286
+Perth, UKXX0285
+Peterborough, UKXX0110
+Peterhead, UKXX0111
+Peterlee, UKXX1113
+Plymouth, UKXX0112
+Pontefract, UKXX0931
+Pontypool, UKXX0889
+Pontypridd, UKXX0943
+Poole, UKXX0113
+Port Talbot, UKXX0114
+Portsmouth, UKXX0115
+Potters Bar, UKXX0959
+Prescot, UKXX1679
+Presteigne, UKXX0284
+Preston, UKXX0282
+Princetown, UKXX0283
+Pudsey, UKXX0486
+Radcliffe, UKXX0430
+Raglan, UKXX0288
+Ramsgate, UKXX0116
+Rawtenstall, UKXX0832
+Rayleigh, UKXX0292
+Reading, UKXX0117
+Redbridge, UKXX1324
+Redcar, UKXX0921
+Redditch, UKXX1640
+Redesdale, UKXX0290
+Redhill, UKXX0606
+Reigate, UKXX0118
+Rhondda, UKXX1429
+Rhyl, UKXX0392
+Rhyll, UKXX0291
+Richmond-upon-Thames, UKXX0928
+Rickmansworth, UKXX0119
+Rochdale, UKXX0120
+Rochester, UKXX1384
+Rockingham, UKXX1917
+Romford, UKXX0797
+Ross Shire, UKXX2091
+Rotherham, UKXX0121
+Royal Leamington Spa, UKXX1525
+Royal Tunbridge Wells, UKXX1524
+Rugby, UKXX1252
+Rugeley, UKXX1323
+Rumney, UKXX0122
+Runcorn, UKXX1783
+Rushden, UKXX1389
+Rutherglen, UKXX0123
+Saint Anne/Alderney Island, UKXX0124
+Saint Aubin/Jersey Island, UKXX0125
+Saint Austell, UKXX0126
+Saint Helena Island, UKXX0191
+Saint Helens, UKXX0127
+Saint Mawgan, UKXX0187
+Saint Peter Port, UKXX0128
+Sale, UKXX1484
+Salford, UKXX0129
+Salisbury, UKXX0301
+Saltash, UKXX0130
+Sandbach, UKXX0299
+Scarborough, UKXX0131
+Scilly, UKXX0303
+Scunthorpe, UKXX0132
+Seaham, UKXX1112
+Sevenoaks, UKXX1418
+Shawbury, UKXX0177
+Sheffield, UKXX0133
+Shipley, UKXX0134
+Shipton, UKXX0297
+Shirley, UKXX0730
+Shrewsbury, UKXX0296
+Silverstone, UKXX1916
+Sittingbourne, UKXX1289
+Skelmersdale, UKXX1785
+Skipton, UKXX0298
+Skomer, UKXX0325
+Slough, UKXX0135
+Smethwick, UKXX0136
+Snowdon, UKXX0295
+Solihull, UKXX1134
+South Shields, UKXX0137
+Southampton, UKXX0138
+Southend-on-Sea, UKXX1314
+Southport, UKXX0139
+Southwark, UKXX1326
+Spalding, UKXX0300
+St Albans, UKXX0429
+St Helier, UKXX0431
+Stafford, UKXX1611
+Staines, UKXX1221
+Stalybridge, UKXX1212
+Staveley, UKXX0731
+Stevenage, UKXX0513
+Stirling, UKXX1565
+Stockport, UKXX0140
+Stocks Resvr, UKXX0302
+Stockton-on-Tees, UKXX0141
+Stoke on Trent, UKXX0142
+Stoke-on-Trent, UKXX1115
+Stonehaven, UKXX0143
+Stornoway, UKXX0165
+Stourbridge, UKXX1453
+Strait Of Dover, UKXX0332
+Stratford On Avo, UKXX0294
+Stratford-upon-Avon, UKXX1549
+Stretford, UKXX1027
+Strood, UKXX1629
+Stroud, UKXX1066
+Sumburgh, UKXX0144
+Sunderland, UKXX0145
+Surbiton, UKXX0974
+Sutton, UKXX1110
+Sutton Coldfield, UKXX1638
+Sutton-in-Ashfield, UKXX0787
+Swadlincote, UKXX0655
+Swansea, UKXX0146
+Swindon, UKXX0147
+Tamworth, UKXX0148
+Taunton, UKXX0309
+Tavistock, UKXX0149
+Teesside, UKXX1024
+Telford, UKXX0305
+Telford Dawley, UKXX0627
+Tenby, UKXX0304
+The Little Minch, UKXX0330
+The Medway Towns, UKXX1325
+The Potteries, UKXX0623
+Thornaby, UKXX1731
+Thornaby-on-Tees, UKXX1631
+Thornton/Cleveleys, UKXX1130
+Tiree, UKXX0168
+Tonbridge, UKXX0307
+Torquay, UKXX0150
+Totton, UKXX1131
+Tower Hamlets, UKXX1787
+Trostan, UKXX0308
+Trowbridge, UKXX0151
+Tunbridge Wells, UKXX0306
+Tweedale, UKXX2090
+Tyldesley, UKXX0530
+Tyneside, UKXX1523
+Tywyn, UKXX0310
+Urmston, UKXX1528
+Valley, UKXX0175
+Waddington, UKXX0176
+Wainfleet, UKXX0311
+Wakefield, UKXX0152
+Walkden, UKXX1089
+Wallasey, UKXX0357
+Wallsend, UKXX0586
+Walsall, UKXX0812
+Waltham Forest, UKXX0927
+Wandsworth, UKXX1226
+Warrington, UKXX0153
+Warslow, UKXX0319
+Warwick, UKXX1347
+Washington, UKXX1696
+Waterlooville, UKXX1300
+Watford, UKXX0924
+Wattisham, UKXX0181
+Wellingborough, UKXX1388
+Wellington, UKXX0314
+Welshpool, UKXX0316
+Welwyn Garden City, UKXX0534
+Wembley, UKXX1158
+West Bridgford, UKXX1029
+West Bromwich, UKXX1733
+Westminster, UKXX0815
+Weston-Spr-Mare, UKXX0320
+Weston-super-Mare, UKXX1628
+Weybourne, UKXX0321
+Weybridge, UKXX0154
+Weymouth, UKXX0317
+Whitby, UKXX0312
+Whitefield, UKXX0488
+Whitehall, UKXX0318
+Whitehaven, UKXX1045
+Whitland, UKXX0315
+Whitley Bay, UKXX1093
+Whitstable, UKXX0155
+Wick, UKXX0313
+Wickford, UKXX1114
+Widnes, UKXX0156
+Wigan, UKXX0925
+Wigston, UKXX1376
+Wilmslow, UKXX1413
+Winchester, UKXX0157
+Windsor, UKXX0158
+Winsford, UKXX0949
+Wisbech, UKXX1767
+Wishaw, UKXX1186
+Witham, UKXX0946
+Wittering, UKXX0178
+Woking, UKXX1067
+Wokingham, UKXX0903
+Wolverhampton, UKXX0159
+Woodbridge, UKXX0160
+Worcester, UKXX0161
+Workington, UKXX1741
+Worksop, UKXX0710
+Worsley, UKXX1526
+Worthing, UKXX0639
+Wrexham, UKXX0821
+Yeovil, UKXX1435
+Yeovilton, UKXX0188
+York, UKXX0162

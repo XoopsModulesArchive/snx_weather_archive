@@ -1,0 +1,29 @@
+MS-Weather for xoops v2
+
+Version 1.1.4 by NGUYEN DINH Quoc-Huy (SnAKes)
+	- using www.weather.com
+	- block support
+	- 10 days forecast
+	- city search
+	- predefined city list
+	- customizable colors
+	- dynamic temperature colors
+
+UPGRADE:
+	- unpack the archive
+	- copy the files in snx_weather_upgrade folder into XOOPS_ROOT_PATH/modules/snx_weather/
+
+INSTALLATION:
+	- unpack the archive
+	- copy the files in snx_weather folder into XOOPS_ROOT_PATH/modules/snx_weather/ directories
+	- the SnX-Weather module must be in in XOOPS_ROOT_PATH/modules/snx_weather/
+	- Don't forget to set the directory/files permissions (chmod 777) for:
+	    cache/
+	    cache/cityarray.dat
+	    stylesheet.dat
+	    config.dat
+	    citylist.dat
+	- There is no need for database
+	- finish installation in the modules administration section
+
+	
